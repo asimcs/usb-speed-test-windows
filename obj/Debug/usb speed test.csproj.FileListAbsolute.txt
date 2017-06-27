@@ -1,0 +1,20 @@
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.exe.config
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.exe
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.pdb
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb_speed_test.Form1.resources
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb_speed_test.Properties.Resources.resources
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.csproj.GenerateResource.Cache
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.exe
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.pdb
+c:\users\jacky\documents\visual studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb_speed_test.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb_speed_test.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\bin\Debug\usb speed test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\bin\Debug\USBClassLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\bin\Debug\USBClassLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\usb speed test\usb speed test\obj\Debug\usb speed test.csprojResolveAssemblyReference.cache
